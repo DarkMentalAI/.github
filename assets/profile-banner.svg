@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">DarkMentalAI banner</title>
+  <desc id="desc">A premium black-green profile banner with an abstract AI mark and the DarkMentalAI wordmark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020403"/>
+      <stop offset="55%" stop-color="#04120A"/>
+      <stop offset="100%" stop-color="#020403"/>
+    </linearGradient>
+
+    <radialGradient id="leftGlow" cx="250" cy="240" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1D9A60" stop-opacity="0.20"/>
+      <stop offset="45%" stop-color="#0E5A37" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#020403" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="rightGlow" cx="1260" cy="100" r="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8AF2B5" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#1D7B4E" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#020403" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="markStroke" x1="170" y1="140" x2="360" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A8F4C7"/>
+      <stop offset="50%" stop-color="#52C88A"/>
+      <stop offset="100%" stop-color="#0D5C38"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="460" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#86E4AE" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#86E4AE" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="480" fill="url(#bg)"/>
+  <rect width="1600" height="480" fill="url(#leftGlow)"/>
+  <rect width="1600" height="480" fill="url(#rightGlow)"/>
+
+  <g shape-rendering="geometricPrecision">
+    <circle cx="250" cy="240" r="118" fill="none" stroke="#2B8A5C" stroke-opacity="0.28" stroke-width="2.5"/>
+    <circle cx="250" cy="240" r="88" fill="none" stroke="#1B5F40" stroke-opacity="0.25" stroke-width="1.5"/>
+
+    <path d="M207 168 V312" fill="none" stroke="url(#markStroke)" stroke-width="16" stroke-linecap="round"/>
+    <path d="M207 168 H246 C302 168 330 197 330 240 C330 283 302 312 246 312 H207" fill="none" stroke="url(#markStroke)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="346" cy="240" r="8" fill="#8AF2B5"/>
+    <circle cx="346" cy="240" r="18" fill="none" stroke="#8AF2B5" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+
+  <text x="460" y="238" dominant-baseline="middle" fill="#F2FBF6" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="0">
+    <tspan>DarkMental</tspan><tspan fill="#7FE3A8">AI</tspan>
+  </text>
+
+  <line x1="462" y1="300" x2="1118" y2="300" stroke="url(#rule)" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
