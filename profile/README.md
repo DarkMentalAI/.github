@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="../assets/profile-banner.svg" alt="DarkMentalAI banner" width="100%" />
+  <img src="../assets/profile-banner.svg" alt="DarkMentaAI banner" width="100%" />
 </p>
 
-# DarkMentalAI
+# DarkMentaAI
 
 DarkMentalAI builds public AI systems with clear interface contracts, durable engineering, and restrained product design.
 
 ## Public work
 
-- [`awesome-gui-md`](https://github.com/DarkMentalAI/awesome-gui-md) - Agent-readable GUI.md interface contracts, patterns, and Web adapters.
+- [`awesome-gui-md`](https://github.com/DarkMentaAI/awesome-gui-md) - Agent-readable GUI.md interface contracts, patterns, and Web adapters.
 
 ## Focus
 
