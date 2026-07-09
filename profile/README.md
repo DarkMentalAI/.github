@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/profile-banner.svg" alt="DarkMentaAI banner" width="100%" />
+  <img src="../assets/profile-banner.svg" alt="DarkMentalAI banner" width="100%" />
 </p>
 
 # DarkMentaAI
