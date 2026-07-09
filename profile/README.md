@@ -8,7 +8,7 @@ DarkMentalAI builds public AI systems with clear interface contracts, durable en
 
 ## Public work
 
-- [`awesome-gui-md`](https://github.com/DarkMentaAI/awesome-gui-md) - Agent-readable GUI.md interface contracts, patterns, and Web adapters.
+- [`awesome-gui-md`](https://github.com/DarkMentalAI/awesome-gui-md) - Agent-readable GUI.md interface contracts, patterns, and Web adapters.
 
 ## Focus
 
